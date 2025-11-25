@@ -54,73 +54,72 @@ Quotes or statements representing user perspective
 Summarize how the identified pain points, problem statements, research methods, and personas connect to guide user-centered design decisions for both projects.
 Highlight how the proposed solutions aim to improve usability, accessibility, and user satisfaction.
 
-## Scenario 1: Designing a Mental Wellness Companion App
+## Scenario 1: Government Service Portal – Applying for Community Certificate
 
-1. Identifying and Writing Problem Statements User Pain Points Identified:
 
-● Users struggle to manage daily stress and track emotional well-being.
+A state government wants to redesign its online public service portal, where citizens apply for documents such as community certificates, income certificates, and birth certificates.
+Currently, users struggle to locate the correct service, the forms often don’t load properly on mobile, and the portal provides almost no visibility into application status.
 
-● Current mental health apps are either too clinical or lack personalization.
+Citizens frequently abandon the online process and end up physically visiting government offices, which defeats the purpose of digital service delivery. The UX team is assigned to redesign the portal for clarity, accessibility, and transparency.
 
-● Many users feel uncomfortable sharing sensitive emotions with strangers online.
+## Scenario 2: Online Learning Platform – Short Technical Courses
 
-Problem Statement 1:
+A rapidly growing ed-tech startup offers short courses (Python, UI/UX, Data Science).
+However, learners complain that course pages are confusing, video lectures load inconsistently, and the platform does not show clear module progression.
 
-"College students need a way to express and track their emotions privately because they find current mental health apps impersonal, which results in loss of motivation and inconsistent usage."
+Students often enroll in the wrong course because descriptions lack details like skill level, prerequisites, and learning outcomes.
+Additionally, learners often drop out mid-course because they cannot track what they have completed and what’s left.
 
-Problem Statement 2:
+## Persona 1 - Aanya Patel
 
-"Working adults need a way to manage daily stress effectively because existing apps provide generic advice, which results in poor emotional engagement and minimal behavioral change."
+Age: 35
 
-2. Identifying Appropriate Research Methods Chosen Research Methods:
+Occupation: School Teacher
 
-● User Interviews: To explore emotional triggers, privacy concerns, and coping strategies.
+Goals:
 
-● Diary Studies: To capture real-life stress patterns and emotional fluctuations.
+Apply for income certificate without visiting offices
 
-● Usability Testing: To evaluate comfort level and engagement with prototype journaling features.
+Behaviors:
 
-Justification:
+Works mostly on mobile
 
-● Interviews allow deep understanding of emotional barriers.
+Reads instructions carefully
 
-● Diary studies reveal natural behavior patterns across different moods.
+Pain Points:
 
-● Usability tests ensure the app feels safe, simple, and emotionally supportive.
+Forms unclear
 
-3. Creating Personas
+Portal crashes on mobile
 
-Persona 1 - Aanya Patel
+Motivation:
 
-Age: 21
+Save time and avoid queues
+## Persona 2 - Rohan Deshmukh
+
+Age: 23
 
 Occupation: College Student
 
-Location: Chennai
+Goals:
 
-Goals: Maintain a daily habit of journaling and manage anxiety before exams.
+Get documents issued fast
 
-Behaviors: Uses social media frequently; prefers guided meditations and mood trackers.
+Behaviors:
 
-Pain Points: Feels judged when sharing emotions; inconsistent motivation.
+Fast digital habits
 
-Motivation: Wants a safe space for emotional reflection and mental clarity.
+Hates long text
 
-Persona 2 - Rohan Deshmukh
+Pain Points:
 
-Age: 34
+Can’t find the right link
 
-Occupation: Marketing Executive
+Status tracking unreliable
 
-Location: Mumbai
+Motivation:
 
-Goals: Reduce stress levels and improve work-life balance.
-
-Behaviors: Works long hours; occasionally listens to calming podcasts.
-
-Pain Points: Doesn't find time for therapy; overwhelmed by work-related stress.
-
-Motivation: Improve emotional resilience and focus for professional success.
+Complete tasks quickly and move on
 
 ## Scenario 2: Designing a Smart Waste Management App for Urban
 
@@ -134,23 +133,20 @@ User Pain Points Identified:
 
 ● Lack of real-time communication between municipal services and citizens leads to frustration.
 
-Problem Statement 1:
+1. Problem Statements
+User Pain Points
 
-"Urban residents need a way to track garbage collection schedules because current communication from local authorities is inconsistent, which results in missed pickups and unhygienic surroundings."
+Learners struggle to choose the right course because descriptions are vague.
 
-Problem Statement 2:
+They can’t track learning progress or revisit old modules easily.
 
-"Municipal workers need a system to receive real-time waste complaints because manual reporting is slow and unreliable, which results in delayed issue resolution."
+Video content loads slowly and lacks structure.
 
-2. Identifying Appropriate Research Methods
+Problem Statements
 
-Chosen Research Methods:
+"An online learner needs a way to choose suitable courses because current course details lack clarity, which results in confusion and wrong enrollment choices."
 
-● Surveys: To understand citizen awareness and satisfaction with waste management.
-
-● Field Observation: To study how collection and reporting currently function.
-
-● Contextual Inquiry: To observe waste collectors and citizens interacting with the system.
+"A student needs a way to track learning progress across modules because the platform does not provide a structured flow, which results in inconsistent learning habits."
 
 Justification:
 
@@ -160,48 +156,18 @@ Field observation exposes operational inefficiencies.
 
 Contextual inquiry gives first-hand understanding of on-ground challenges.
 
-3. Creating Personas
 
-Persona 1 - Kavya Nair
-
-Age: 29
-
-Occupation: IT Professional
-
-Location: Bangalore
-
-Goals: Keep her neighborhood clean and easily report missed pickups.
-
-Behaviors: Tech-savvy; prefers quick mobile interactions; participates in local initiatives.
-
-Pain Points: Irregular garbage pickup, no notification system, poor complaint tracking. 
-
-Motivation: Contribute to a cleaner city and reduce health risks in her area.
-
-Persona 2 - Vijay Kumar
-
-Age: 46
-
-Occupation: Sanitation Worker
-
-Location: Hyderabad
-
-Goals: Receive clear route instructions and waste pickup updates.
-
-Behaviors: Uses a basic smartphone; relies on WhatsApp for team coordination.
-
-Pain Points: Manual complaint logs, lack of timely updates, unclear task allocation.
-
-Motivation: Improve work efficiency and gain recognition for reliable service.
 
 ## Output:
-### Scenario 1: Designing a Mental Wellness Companion App
+### Government Service Portal – Applying for Community Certificate
 
-<img width="1857" height="868" alt="Screenshot 2025-11-17 084351" src="https://github.com/user-attachments/assets/2a167f66-a167-4b80-95b6-3916a6a05a00" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/4c8df394-8224-407a-bc97-699845b95895" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c0f55d27-49db-4b8e-a365-2f94f4377681" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/73e94eb2-5a99-4681-9904-f889307f6c42" />
 
-### Scenario 2: Designing a Smart Waste Management App for Urban
 
-<img width="1686" height="880" alt="image" src="https://github.com/user-attachments/assets/7051bfae-6ee7-4493-b7ed-1e71811b547c" />
+### Online Learning Platform – Short Technical Courses
+
 
 ## Result:
 
