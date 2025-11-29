@@ -167,6 +167,10 @@ Contextual inquiry gives first-hand understanding of on-ground challenges.
 
 
 ### Online Learning Platform – Short Technical Courses
+<img width="1919" height="1136" alt="Screenshot 2025-11-29 095121" src="https://github.com/user-attachments/assets/e02aa1b7-e338-4ea1-8097-a8f3dd24b45e" />
+<img width="1919" height="1134" alt="Screenshot 2025-11-29 095145" src="https://github.com/user-attachments/assets/d8e978b5-19c8-4a94-b9ed-e1b3ac30ae6a" />
+<img width="1919" height="1137" alt="Screenshot 2025-11-29 095205" src="https://github.com/user-attachments/assets/1d305b90-2815-429b-a4ca-afa973cbfce6" />
+
 
 
 ## Result:
